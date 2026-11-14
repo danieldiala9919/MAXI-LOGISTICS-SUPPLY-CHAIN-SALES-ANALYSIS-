@@ -102,7 +102,7 @@ Maxi Logistics grew sales from \$484K in 2014 to \$733K in 2017 and almost doubl
 | Total Profit | \$286.4K || Number of Customers | 793 |
 | Profit Margin | 12.47% || Average Order Value | \$458.61 |
 | Total Quantity Sold | 37,873 units || Orders per Customer | 6.32 |
-| Avg Shipping Lead Time | 3.81 days (4,120 valid shipments) || Orders Returned | 296 (5.91%) |
+| Average Shipping Lead Time | 3.81 days (4,120 valid shipments) || Orders Returned | 296 (5.91%) |
 
 - **Speed is flat, and Standard Class carries the load.** The average order-to-ship time is 3.81 days and has barely moved since 2014 (3.87 days in 2014, 3.77 in 2016, 3.81 in 2017). Standard Class handles 59.8% of orders at 4.95 days.
 - **A reliability blind spot.** 889 orders (17.75%) have ship dates that cannot be trusted, 73% of them on Standard Class, so lead-time metrics cover only 82.25% of orders.
@@ -127,7 +127,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### KPI cards: Total Orders, Valid Shipments, Valid Shipments % and Avg Shipping Processing Days
-
+<p align="center">
 <img width="175" height="398" alt="chart_ship_kpis" src="https://github.com/user-attachments/assets/c0dcf9d1-5635-4311-8e93-28ed1aa38923" />
 
 
@@ -136,8 +136,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### Orders by Ship Mode 
-
-<img width="756" height="413" alt="chart_ship_orders" src="https://github.com/user-attachments/assets/450ad585-1731-4880-a981-0d68ca0f65c0" />
+<p align="center">
+<img width="344" height="197" alt="chart_ship_orders" src="https://github.com/user-attachments/assets/450ad585-1731-4880-a981-0d68ca0f65c0" />
 
 
 - **Standard Class dominates with 2,994 orders (59.8%),** followed by Second Class (964, 19.2%), First Class (787, 15.7%) and Same Day (264, 5.3%).
@@ -145,7 +145,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### Average Shipping Processing Days by Ship Mode
-
+<p align="center">
 <img width="344" height="197" alt="chart_ship_days" src="https://github.com/user-attachments/assets/0dc7284d-2265-42ab-adea-3c3321f03b9c" />
 
 - **Speed follows the service tier as expected:** Standard Class 4.95 days, Second Class 3.19, First Class 2.14 and Same Day 0.04.
@@ -156,15 +156,15 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### Sales by Ship Mode
-
-<img width="518" height="426" alt="chart_ship_sales" src="https://github.com/user-attachments/assets/302e5a38-c03b-4827-b050-0a06fc5841be" />
+<p align="center">
+<img width="344" height="270" alt="chart_ship_sales" src="https://github.com/user-attachments/assets/302e5a38-c03b-4827-b050-0a06fc5841be" />
 
 
 - **Standard Class generates 59.1% of sales (\$1.36M)**, Second Class 20.0% (\$459K), First Class 15.3% (\$351K) and Same Day 5.6% (\$128K). Each mode's share of sales almost mirrors its share of orders, so no mode is attracting unusually large or small baskets.
 - **Standard Class earns 57% of total profit,** but First Class earns the best margin at 13.9% against 12.1% for Standard, while shipping about 2.8 days faster.
 
 #### Average Shipping Processing Time Trend 
-
+<p align="center">
 <img width="454" height="194" alt="chart_ship_trend" src="https://github.com/user-attachments/assets/5709e98b-00e3-4420-99a0-e78f73fd42a7" />
 
 
@@ -190,8 +190,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### Orders by Region 
-
-<img width="959" height="422" alt="chart_ops_region" src="https://github.com/user-attachments/assets/15a270dd-1d7e-49fa-b042-3ededd9b2b0e" />
+<p align="center">
+<img width="510" height="230" alt="chart_ops_region" src="https://github.com/user-attachments/assets/15a270dd-1d7e-49fa-b042-3ededd9b2b0e" />
 
 
 - **West leads with 1,611 orders (32.2%),** then East 1,401 (28.0%), Central 1,175 (23.5%) and South 822 (16.4%).
@@ -200,8 +200,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### Exception KPI cards: Unreliable Ship Date Orders and % Unreliable
-
-<img width="929" height="177" alt="chart_ops_kpis" src="https://github.com/user-attachments/assets/31f88e16-96c9-4a84-bac1-4b7e6e7d41f0" />
+<p align="center">
+<img width="600" height="150" alt="chart_ops_kpis" src="https://github.com/user-attachments/assets/31f88e16-96c9-4a84-bac1-4b7e6e7d41f0" />
 
 
 - **889 orders, or 17.75% of all orders, have unreliable ship dates.** These orders are shown as shipped on the same day they were ordered even though they used Standard, Second or First Class.
@@ -209,8 +209,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### Shipping Exception Analysis
-
-<img width="959" height="436" alt="chart_ops_exceptions" src="https://github.com/user-attachments/assets/1c30d105-ca3b-452d-b833-ade43cc22c2e" />
+<p align="center">
+<img width="510" height="230" alt="chart_ops_region" alt="chart_ops_exceptions" src="https://github.com/user-attachments/assets/1c30d105-ca3b-452d-b833-ade43cc22c2e" />
 
 
 - **Standard Class holds 648 exceptions (73% of the total),** Second Class 160 and First Class 81. Same Day has none.
@@ -220,7 +220,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### Shipping Processing Time by Ship Mode and Region
-
+<p align="center">
 <img width="909" height="600" alt="chart_ops_table" src="https://github.com/user-attachments/assets/27d48d02-28ff-46ff-84b7-e3811d6aad0f" />
 
 - **Ship mode, not geography, drives lead time.** Standard Class averages 4.95 to 4.97 days in every region, Second Class 3.13 to 3.26, First Class 2.06 to 2.20 and Same Day 0.00 to 0.08.
@@ -245,7 +245,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### KPI cards: Total Sales Returns and % Order Returns
-
+<p align="center">
 <img width="949" height="215" alt="chart_ret_kpis" src="https://github.com/user-attachments/assets/13c49a89-9304-4df2-995e-46c8d8f5220c" />
 
 
@@ -255,7 +255,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### % Order Returns Trend 
-
+<p align="center">
 <img width="449" height="198" alt="chart_ret_trend" src="https://github.com/user-attachments/assets/1f79c29f-b27d-4dd5-a399-111a3b4b49b4" />
 
 - **The return rate is drifting up:** 5.47% (2014), 5.88% (2015), 5.86% (2016) and 6.22% (2017).
@@ -264,7 +264,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 #### Order Returns by City 
-
+<p align="center">
 <img width="919" height="603" alt="chart_ret_city" src="https://github.com/user-attachments/assets/65a08dac-b7bc-4161-b113-98cd113d63db" />
 
 
@@ -273,7 +273,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 - **Filtering the Region slicer to West confirms the pattern:** the West produces 189 of the 296 returned orders (64%) from only 32% of orders, a return rate of 11.73% against 2.9% to 3.3% in every other region.
 
 #### % Order Returns by Sub-Category (top 10)
-
+<p align="center">
 <img width="932" height="433" alt="chart_ret_subcategory" src="https://github.com/user-attachments/assets/ff722f55-0660-4bee-912c-c84484303e33" />
 
 
@@ -296,7 +296,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 </p>
 
 ####  No. of Customers, Avg Order Value and Order per Customer
-
+<p align="center">
 <img width="434" height="95" alt="chart_geo_kpis" src="https://github.com/user-attachments/assets/151d38ce-7ee7-4300-86b1-c399d728fd2f" />
 
 
@@ -304,7 +304,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 - **The average order is worth \$458.61,** which means the average customer spent roughly \$2,900 over the four years (6.32 orders at \$458.61).
 
 #### Top 10 States by Sales 
-
+<p align="center">
 <img width="966" height="427" alt="chart_geo_top10" src="https://github.com/user-attachments/assets/49704fd5-e746-42c3-a6d8-f733b1e51986" />
 
 
@@ -312,7 +312,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 - **The top 10 states account for 69.2% of sales,** so revenue is highly concentrated in a handful of markets.
 
 #### State-Level Performance
-
+<p align="center">
 <img width="914" height="594" alt="chart_geo_table" src="https://github.com/user-attachments/assets/e738bef6-0dbb-49e7-898b-5f1960caf022" />
 
 
@@ -323,7 +323,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 <sub>The table scrolls in the report and is sorted alphabetically by state; the first rows are shown here.</sub>
 
 #### Bottom 10 States by Sales 
-
+<p align="center">
 <img width="950" height="436" alt="chart_geo_bottom10" src="https://github.com/user-attachments/assets/706c32fb-f7a5-487a-bc74-f5e22c760109" />
 
 
