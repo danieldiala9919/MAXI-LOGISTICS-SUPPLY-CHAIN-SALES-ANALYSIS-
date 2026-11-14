@@ -2,17 +2,13 @@
 
 *Shipping Reliability, Returns and Geographic Profitability Analysis*
 
-<p align="center">
- <img width="904" height="505" alt="dashboard_shipping_performance" src="https://github.com/user-attachments/assets/39f2eebf-bd5c-4d67-88fb-d16bfa731f48" />
-  <br><em>Maxi Logistics Power BI report: Shipping Performance page</em>
-</p>
 
-| | |
-|---|---|
-| **Prepared by** | Danie Diala |
-| **Tools** | Excel, Power Query, DAX, Power BI |
-| **Period analysed** | January 2014 to December 2017 |
-| **Scope** | 9,994 order lines, 5,009 orders, 793 customers, 49 US states |
+
+**Prepared by:**  Danie Diala 
+
+**Period analysed:** January 2014 to December 2017 
+
+**Tools:** Excel, Power Query, DAX, Power BI 
 
 
 ---
@@ -66,11 +62,6 @@ Growth was masking weaknesses in fulfilment. The order and ship dates in the sou
 
 The Power BI model is built from an Excel workbook with two tables, plus a measures table (`_Dax`) holding the DAX calculations used across the report. In total the model holds **9,994 order lines** and a **1,826-day calendar**.
 
-| Table | Rows x Columns | Description |
-|---|---|---|
-| **Retails Order Full Dataset** | 9,994 x 23 | Order-line level transactions: order and ship dates, ship mode, customer, segment, location (city, state, postal code, region), product (ID, category, sub-category, name), returned flag, sales, quantity, discount and profit. |
-| **Calendar Table** | 1,826 x 12 | Date dimension covering 1 Jan 2014 to 31 Dec 2018: year, quarter, month, month name, week and day attributes. Used for all time analysis. |
-| **`_Dax` (measures)** | 16 measures | Total Sales, Total Profit, Profit Margin %, Total Quantity, Total Orders, No. of Customers, Avg Order Value, Order per Customer, Orders Returned, % Returned, Sales Return, Valid Shipments, Shipping Validity %, Avg Shipping Days, Unreliable Ship Date Orders and % Unreliable Ship Date Orders. |
 
 ### Key fields in the order table
 
@@ -103,15 +94,15 @@ The Power BI model is built from an Excel workbook with two tables, plus a measu
 <img width="942" height="506" alt="Maxi 3" src="https://github.com/user-attachments/assets/ec0ddba3-73ef-46fe-94ff-62d3883d7596" />
  <br><em>Executive Overview dashboard</em>
 </p>
-Maxi Logistics grew sales from \$484K in 2014 to \$733K in 2017 and almost doubled profit (\$49.5K to \$93.4K), but **fulfilment speed has not improved, one in five shipping records cannot be trusted, returns are rising and concentrated in the West, and five of the ten biggest-selling states lose money.**
+Maxi Logistics grew sales from \$484K in 2014 to \$733K in 2017 and almost doubled profit (\$49.5K to \$93.4K), but fulfilment speed has not improved, one in five shipping records cannot be trusted, returns are rising and concentrated in the West, and five of the ten biggest-selling states lose money.
 
-| KPI | Result | KPI | Result |
-|---|---|---|---|
-| Total Sales | \$2.30M | Total Orders | 5,009 |
-| Total Profit | \$286.4K | Number of Customers | 793 |
-| Profit Margin | 12.47% | Average Order Value | \$458.61 |
-| Total Quantity Sold | 37,873 units | Orders per Customer | 6.32 |
-| Avg Shipping Lead Time | 3.81 days (4,120 valid shipments) | Orders Returned | 296 (5.91%) |
+| KPI | Result || KPI | Result |
+|---|---|---|---|---|
+| Total Sales | \$2.30M || Total Orders | 5,009 |
+| Total Profit | \$286.4K || Number of Customers | 793 |
+| Profit Margin | 12.47% || Average Order Value | \$458.61 |
+| Total Quantity Sold | 37,873 units || Orders per Customer | 6.32 |
+| Avg Shipping Lead Time | 3.81 days (4,120 valid shipments) || Orders Returned | 296 (5.91%) |
 
 - **Speed is flat, and Standard Class carries the load.** The average order-to-ship time is 3.81 days and has barely moved since 2014 (3.87 days in 2014, 3.77 in 2016, 3.81 in 2017). Standard Class handles 59.8% of orders at 4.95 days.
 - **A reliability blind spot.** 889 orders (17.75%) have ship dates that cannot be trusted, 73% of them on Standard Class, so lead-time metrics cover only 82.25% of orders.
