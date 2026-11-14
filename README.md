@@ -126,7 +126,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 </p>
 
 
-#### KPI cards: Total Orders, Valid Shipments, Valid Shipments % and Avg Shipping Processing Days
+####  Total Orders, Valid Shipments, Valid Shipments % and Avg Shipping Processing Days
 <p align="center">
 <img width="175" height="398" alt="chart_ship_kpis" src="https://github.com/user-attachments/assets/c0dcf9d1-5635-4311-8e93-28ed1aa38923" />
 
@@ -199,7 +199,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 
-#### Exception KPI cards: Unreliable Ship Date Orders and % Unreliable
+####  Unreliable Ship Date Orders and % Unreliable
 <p align="center">
 <img width="600" height="150" alt="chart_ops_kpis" src="https://github.com/user-attachments/assets/31f88e16-96c9-4a84-bac1-4b7e6e7d41f0" />
 
@@ -244,9 +244,9 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 
 
-#### KPI cards: Total Sales Returns and % Order Returns
+####  Total Sales Returns and % Order Returns
 <p align="center">
-<img width="949" height="215" alt="chart_ret_kpis" src="https://github.com/user-attachments/assets/13c49a89-9304-4df2-995e-46c8d8f5220c" />
+<img width="600" height="150" alt="chart_ret_kpis" src="https://github.com/user-attachments/assets/13c49a89-9304-4df2-995e-46c8d8f5220c" />
 
 
 - **296 of 5,009 orders were returned (5.91%),** carrying \$180.5K of sales, equal to 7.9% of total sales.
@@ -297,7 +297,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 ####  No. of Customers, Avg Order Value and Order per Customer
 <p align="center">
-<img width="434" height="95" alt="chart_geo_kpis" src="https://github.com/user-attachments/assets/151d38ce-7ee7-4300-86b1-c399d728fd2f" />
+<img width="600" height="150" alt="chart_geo_kpis" src="https://github.com/user-attachments/assets/151d38ce-7ee7-4300-86b1-c399d728fd2f" />
 
 
 - **793 customers placed 5,009 orders, or 6.32 orders each,** about 1.6 orders per customer per year. This is a repeat-purchase customer base, so retention matters as much as acquisition.
