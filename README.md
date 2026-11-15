@@ -425,6 +425,7 @@ The dataset was not free of errors. The table below summarises each data quality
 
 
 **Tools:** Excel, Power Query, DAX, Power BI.
+
 ***Prepare by Daniel Diala***
 ---
 
