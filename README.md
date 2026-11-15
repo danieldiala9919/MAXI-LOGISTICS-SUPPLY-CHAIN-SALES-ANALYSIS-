@@ -221,7 +221,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### Shipping Processing Time by Ship Mode and Region
 <p align="center">
-<img width="909" height="600" alt="chart_ops_table" src="https://github.com/user-attachments/assets/27d48d02-28ff-46ff-84b7-e3811d6aad0f" />
+<img width="606" height="300" alt="chart_ops_table" src="https://github.com/user-attachments/assets/27d48d02-28ff-46ff-84b7-e3811d6aad0f" />
 
 - **Ship mode, not geography, drives lead time.** Standard Class averages 4.95 to 4.97 days in every region, Second Class 3.13 to 3.26, First Class 2.06 to 2.20 and Same Day 0.00 to 0.08.
 - **Regional averages are close:** West 3.76, East 3.80, South 3.83 and Central 3.89 days, a gap of just 0.13 days. There is no regional bottleneck to fix; improvement has to come from the process itself.
@@ -265,7 +265,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### Order Returns by City 
 <p align="center">
-<img width="919" height="603" alt="chart_ret_city" src="https://github.com/user-attachments/assets/65a08dac-b7bc-4161-b113-98cd113d63db" />
+<img width="600" height="300" alt="chart_ret_city" src="https://github.com/user-attachments/assets/65a08dac-b7bc-4161-b113-98cd113d63db" />
 
 
 - **Los Angeles leads with 50 returned orders,** 17% of all returns, followed by Seattle (25) and San Francisco (24). These three West Coast cities account for 99 returns, a third of the total.
@@ -274,7 +274,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### % Order Returns by Sub-Category (top 10)
 <p align="center">
-<img width="932" height="433" alt="chart_ret_subcategory" src="https://github.com/user-attachments/assets/ff722f55-0660-4bee-912c-c84484303e33" />
+<img width="600" height="300" alt="chart_ret_subcategory" src="https://github.com/user-attachments/assets/ff722f55-0660-4bee-912c-c84484303e33" />
 
 
 - **Machines (11.61%) and Tables (9.77%) are the worst,** roughly 2.0 and 1.7 times the company-wide rate of 5.91%.
@@ -305,7 +305,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### Top 10 States by Sales 
 <p align="center">
-<img width="966" height="427" alt="chart_geo_top10" src="https://github.com/user-attachments/assets/49704fd5-e746-42c3-a6d8-f733b1e51986" />
+<img width="600" height="300" alt="chart_geo_top10" src="https://github.com/user-attachments/assets/49704fd5-e746-42c3-a6d8-f733b1e51986" />
 
 
 - **California (\$457.7K), New York (\$310.9K) and Texas (\$170.2K) lead.** California and New York alone generate 33.5% of total sales.
@@ -313,7 +313,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### State-Level Performance
 <p align="center">
-<img width="914" height="594" alt="chart_geo_table" src="https://github.com/user-attachments/assets/e738bef6-0dbb-49e7-898b-5f1960caf022" />
+<img width="614" height="294" alt="chart_geo_table" src="https://github.com/user-attachments/assets/e738bef6-0dbb-49e7-898b-5f1960caf022" />
 
 
 - **Sales rank does not equal profit rank.** Texas is third on sales but loses \$25.7K. Five of the ten biggest-selling states are loss-making (Texas, Pennsylvania, Florida, Illinois and Ohio), losing \$74.3K between them.
@@ -324,7 +324,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### Bottom 10 States by Sales 
 <p align="center">
-<img width="950" height="436" alt="chart_geo_bottom10" src="https://github.com/user-attachments/assets/706c32fb-f7a5-487a-bc74-f5e22c760109" />
+<img width="600" height="300" alt="chart_geo_bottom10" src="https://github.com/user-attachments/assets/706c32fb-f7a5-487a-bc74-f5e22c760109" />
 
 
 - **North Dakota (\$0.9K), West Virginia (\$1.2K) and Maine (\$1.3K) are the weakest,** with South Dakota, Wyoming, District of Columbia, Kansas, Idaho, Iowa and New Mexico completing the list.
