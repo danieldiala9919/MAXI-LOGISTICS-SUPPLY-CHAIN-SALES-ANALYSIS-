@@ -62,6 +62,7 @@ Growth was masking weaknesses in fulfilment. The order and ship dates in the sou
 
 The Power BI model is built from an Excel workbook with two tables, plus a measures table (`_Dax`) holding the DAX calculations used across the report. In total the model holds **9,994 order lines** and a **1,826-day calendar**.
 
+[View Report](./Maxi-Logistics-Report-File.pbix)
 
 ### Key fields in the order table
 
@@ -115,6 +116,8 @@ Maxi Logistics grew sales from \$484K in 2014 to \$733K in 2017 and almost doubl
 ## 4. Insights Deep Dive
 
 The report contains five analytical pages that sit behind the Executive Overview. Each page below is explained with its objective, the dashboard view, and the insight behind every chart. All pages respond to Year and Region slicers (the Returns page uses the same two), and the figures shown are for all years and all regions.
+
+[View Interactive Dashboard](https://drive.google.com/file/d/1HqC9jVofMdcz_kVj7M8Ewe7BwEbumyC6/view?usp=sharing)
 
 ### 4.1 Shipping Performance
 
