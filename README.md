@@ -93,7 +93,7 @@ The Power BI model is built from an Excel workbook with two tables, plus a measu
 
 <p align="center">
 <img width="942" height="506" alt="Maxi 3" src="https://github.com/user-attachments/assets/ec0ddba3-73ef-46fe-94ff-62d3883d7596" />
- <br><em>Executive Overview dashboard</em>
+ <br><em>Figure1: Executive Overview dashboard</em>
 </p>
 Maxi Logistics grew sales from \$484K in 2014 to \$733K in 2017 and almost doubled profit (\$49.5K to \$93.4K), but fulfilment speed has not improved, one in five shipping records cannot be trusted, returns are rising and concentrated in the West, and five of the ten biggest-selling states lose money.
 
@@ -125,13 +125,15 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 <p align="center">
   <img width="904" height="505" alt="dashboard_shipping_performance" src="https://github.com/user-attachments/assets/9dcec7f4-02b8-4edb-b1df-72bfa68eac33" />
-  <br><em>Shipping Performance dashboard</em>
+  <br><em>Figure 2: Shipping Performance dashboard</em>
 </p>
 
 
 ####  Total Orders, Valid Shipments, Valid Shipments % and Avg Shipping Processing Days
 <p align="center">
 <img width="175" height="398" alt="chart_ship_kpis" src="https://github.com/user-attachments/assets/c0dcf9d1-5635-4311-8e93-28ed1aa38923" />
+<br><em>Figure 3: KPIs Cards</em>
+</p>
 
 
 - **5,009 orders were placed but only 4,120 (82.25%) have a trustworthy ship date.** The 3.81-day average processing time is therefore measured on four out of five orders, a limitation every lead-time figure in this report inherits.
@@ -141,6 +143,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### Orders by Ship Mode 
 <p align="center">
 <img width="344" height="197" alt="chart_ship_orders" src="https://github.com/user-attachments/assets/450ad585-1731-4880-a981-0d68ca0f65c0" />
+<br><em>Figure 4: Order by Ship Mode Chart</em>
+</p>
 
 
 - **Standard Class dominates with 2,994 orders (59.8%),** followed by Second Class (964, 19.2%), First Class (787, 15.7%) and Same Day (264, 5.3%).
@@ -150,6 +154,9 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### Average Shipping Processing Days by Ship Mode
 <p align="center">
 <img width="344" height="197" alt="chart_ship_days" src="https://github.com/user-attachments/assets/0dc7284d-2265-42ab-adea-3c3321f03b9c" />
+<br><em>Figure 5: Average Processing Days by Ship Mode chart</em>
+</p>
+
 
 - **Speed follows the service tier as expected:** Standard Class 4.95 days, Second Class 3.19, First Class 2.14 and Same Day 0.04.
 - **Standard Class is about 2.8 days slower than First Class** and 1.8 days slower than Second Class.
@@ -161,7 +168,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### Sales by Ship Mode
 <p align="center">
 <img width="344" height="270" alt="chart_ship_sales" src="https://github.com/user-attachments/assets/302e5a38-c03b-4827-b050-0a06fc5841be" />
-
+<br><em>Figure 6: Sales by Ship Mode Charts</em>
+</p>
 
 - **Standard Class generates 59.1% of sales (\$1.36M)**, Second Class 20.0% (\$459K), First Class 15.3% (\$351K) and Same Day 5.6% (\$128K). Each mode's share of sales almost mirrors its share of orders, so no mode is attracting unusually large or small baskets.
 - **Standard Class earns 57% of total profit,** but First Class earns the best margin at 13.9% against 12.1% for Standard, while shipping about 2.8 days faster.
@@ -169,7 +177,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### Average Shipping Processing Time Trend 
 <p align="center">
 <img width="454" height="194" alt="chart_ship_trend" src="https://github.com/user-attachments/assets/5709e98b-00e3-4420-99a0-e78f73fd42a7" />
-
+<br><em>Figure 7: Average Shipping Processing Time Trend</em>
+</p>
 
 - **No improvement in four years:** the average moved from 3.87 days (2014) to 3.81 (2015), 3.77 (2016) and 3.81 (2017), a swing of only 0.10 days.
 - **Operations scaled without slowing down, but also without getting faster.** Yearly order volume grew 74% (969 to 1,687) over the same period while processing time held flat.
@@ -187,7 +196,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 <p align="center">
  <img width="1920" height="1080" alt="dashboard_shipping_operations" src="https://github.com/user-attachments/assets/57058496-74ca-4154-ac43-f187999c8c3e" />
-  <br><em>Shipping Operations and Exception Analysis dashboard</em>
+  <br><em>Figure 8: Shipping Operations and Exception Analysis dashboard</em>
 </p>
 
 
@@ -195,7 +204,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### Orders by Region 
 <p align="center">
 <img width="510" height="230" alt="chart_ops_region" src="https://github.com/user-attachments/assets/15a270dd-1d7e-49fa-b042-3ededd9b2b0e" />
-
+<br><em>Figure 9: Orders by Region</em>
+</p>
 
 - **West leads with 1,611 orders (32.2%),** then East 1,401 (28.0%), Central 1,175 (23.5%) and South 822 (16.4%).
 - **West and East carry 60% of all demand,** which is where capacity and stock planning should be weighted. South is the smallest market at about one in six orders.
@@ -205,7 +215,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 ####  Unreliable Ship Date Orders and % Unreliable
 <p align="center">
 <img width="600" height="150" alt="chart_ops_kpis" src="https://github.com/user-attachments/assets/31f88e16-96c9-4a84-bac1-4b7e6e7d41f0" />
-
+<br><em>Figure 10: KPI</em>
+</p>
 
 - **889 orders, or 17.75% of all orders, have unreliable ship dates.** These orders are shown as shipped on the same day they were ordered even though they used Standard, Second or First Class.
 
@@ -214,6 +225,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### Shipping Exception Analysis
 <p align="center">
 <img width="510" height="230" alt="chart_ops_region" alt="chart_ops_exceptions" src="https://github.com/user-attachments/assets/1c30d105-ca3b-452d-b833-ade43cc22c2e" />
+<br><em>Figure 11: Shipping Exception Analysis</em>
+</p>
 
 
 - **Standard Class holds 648 exceptions (73% of the total),** Second Class 160 and First Class 81. Same Day has none.
@@ -225,6 +238,9 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### Shipping Processing Time by Ship Mode and Region
 <p align="center">
 <img width="606" height="300" alt="chart_ops_table" src="https://github.com/user-attachments/assets/27d48d02-28ff-46ff-84b7-e3811d6aad0f" />
+<br><em>Figure 12: Shipping Processing Time Table</em>
+</p>
+
 
 - **Ship mode, not geography, drives lead time.** Standard Class averages 4.95 to 4.97 days in every region, Second Class 3.13 to 3.26, First Class 2.06 to 2.20 and Same Day 0.00 to 0.08.
 - **Regional averages are close:** West 3.76, East 3.80, South 3.83 and Central 3.89 days, a gap of just 0.13 days. There is no regional bottleneck to fix; improvement has to come from the process itself.
@@ -242,7 +258,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 <p align="center">
 <img width="905" height="503" alt="dashboard_returns_analysis" src="https://github.com/user-attachments/assets/cfd4cd46-781b-4c9b-a793-a3fff65da203" />
-  <br><em>Returns Analysis dashboard</em>
+  <br><em>Figure 13: Returns Analysis dashboard</em>
 </p>
 
 
@@ -250,7 +266,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 ####  Total Sales Returns and % Order Returns
 <p align="center">
 <img width="600" height="150" alt="chart_ret_kpis" src="https://github.com/user-attachments/assets/13c49a89-9304-4df2-995e-46c8d8f5220c" />
-
+<br><em>Figure 14: KPIs Cards</em>
+</p>
 
 - **296 of 5,009 orders were returned (5.91%),** carrying \$180.5K of sales, equal to 7.9% of total sales.
 - **Returned orders are bigger than average:** \$610 per returned order against \$449 for orders that stayed, about 36% higher, which is why the sales impact (7.9%) exceeds the order rate (5.9%).
@@ -260,6 +277,9 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### % Order Returns Trend 
 <p align="center">
 <img width="449" height="198" alt="chart_ret_trend" src="https://github.com/user-attachments/assets/1f79c29f-b27d-4dd5-a399-111a3b4b49b4" />
+<br><em>Figure 15: Order Retunrs Trend</em>
+</p>
+
 
 - **The return rate is drifting up:** 5.47% (2014), 5.88% (2015), 5.86% (2016) and 6.22% (2017).
 - **Returned orders nearly doubled in volume** from 53 in 2014 to 105 in 2017, with 2017 the worst year, while orders grew 74%. The rate rose about 14% in relative terms (0.75 percentage points).
@@ -269,7 +289,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### Order Returns by City 
 <p align="center">
 <img width="600" height="300" alt="chart_ret_city" src="https://github.com/user-attachments/assets/65a08dac-b7bc-4161-b113-98cd113d63db" />
-
+<br><em>Figure 16: Order by City</em>
+</p>
 
 - **Los Angeles leads with 50 returned orders,** 17% of all returns, followed by Seattle (25) and San Francisco (24). These three West Coast cities account for 99 returns, a third of the total.
 - **Return rates in these cities are very high:** Los Angeles 13.0% and Seattle 11.8% of orders, roughly double the company average.
@@ -278,7 +299,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### % Order Returns by Sub-Category (top 10)
 <p align="center">
 <img width="600" height="300" alt="chart_ret_subcategory" src="https://github.com/user-attachments/assets/ff722f55-0660-4bee-912c-c84484303e33" />
-
+<br><em>Figure Order 17: Order Returns by Subcategory Chart/em>
+</p>
 
 - **Machines (11.61%) and Tables (9.77%) are the worst,** roughly 2.0 and 1.7 times the company-wide rate of 5.91%.
 - **The whole top 10 sits between 7.64% and 11.61%,** so return risk is broad across products, but the lowest sub-categories (Envelopes at 5.22%, Labels at 5.78%) show it is not unavoidable.
@@ -295,13 +317,14 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 <p align="center">
 <img width="906" height="508" alt="dashboard_customers_geography" src="https://github.com/user-attachments/assets/69c1d63f-8615-4d0f-b1ed-7596ca1d2c0e" />
-  <br><em>Customers and Geography dashboard</em>
+  <br><em>Figure 18: Customers and Geography dashboard</em>
 </p>
 
 ####  No. of Customers, Avg Order Value and Order per Customer
 <p align="center">
 <img width="600" height="150" alt="chart_geo_kpis" src="https://github.com/user-attachments/assets/151d38ce-7ee7-4300-86b1-c399d728fd2f" />
-
+<br><em>Figure 19: KPIs Cards</em>
+</p>
 
 - **793 customers placed 5,009 orders, or 6.32 orders each,** about 1.6 orders per customer per year. This is a repeat-purchase customer base, so retention matters as much as acquisition.
 - **The average order is worth \$458.61,** which means the average customer spent roughly \$2,900 over the four years (6.32 orders at \$458.61).
@@ -309,7 +332,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### Top 10 States by Sales 
 <p align="center">
 <img width="600" height="300" alt="chart_geo_top10" src="https://github.com/user-attachments/assets/49704fd5-e746-42c3-a6d8-f733b1e51986" />
-
+<br><em>Figure 20: Top 10 States</em>
+</p>
 
 - **California (\$457.7K), New York (\$310.9K) and Texas (\$170.2K) lead.** California and New York alone generate 33.5% of total sales.
 - **The top 10 states account for 69.2% of sales,** so revenue is highly concentrated in a handful of markets.
@@ -317,7 +341,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### State-Level Performance
 <p align="center">
 <img width="614" height="294" alt="chart_geo_table" src="https://github.com/user-attachments/assets/e738bef6-0dbb-49e7-898b-5f1960caf022" />
-
+<br><em>Figure 21: State Level Perfomance Chart</em>
+</p>
 
 - **Sales rank does not equal profit rank.** Texas is third on sales but loses \$25.7K. Five of the ten biggest-selling states are loss-making (Texas, Pennsylvania, Florida, Illinois and Ohio), losing \$74.3K between them.
 - **Ten states lose money in total (\$98.2K).** Texas (-\$25.7K), Ohio (-\$17.0K), Pennsylvania (-\$15.6K) and Illinois (-\$12.6K) are the largest leaks; Texas, Ohio and Pennsylvania alone lose \$58.3K.
@@ -328,6 +353,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 #### Bottom 10 States by Sales 
 <p align="center">
 <img width="600" height="300" alt="chart_geo_bottom10" src="https://github.com/user-attachments/assets/706c32fb-f7a5-487a-bc74-f5e22c760109" />
+<br><em>Figure 22: Bottom 10 </em>
+</p>
 
 
 - **North Dakota (\$0.9K), West Virginia (\$1.2K) and Maine (\$1.3K) are the weakest,** with South Dakota, Wyoming, District of Columbia, Kansas, Idaho, Iowa and New Mexico completing the list.
@@ -344,7 +371,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 <p align="center">
   <img width="1920" height="1080" alt="dashboard_product_details" src="https://github.com/user-attachments/assets/2b6293a8-4263-4164-82b4-183d3475f291" />
-  <br><em>Product Details drill-through page (Technology)</em>
+  <br><em>Figure 23: Product Details drill-through page (Technology)</em>
 </p>
 
 - **One row per product and order situation:** product ID and name, category, sub-category, total orders, quantity, total sales, **Order Status** (returned or not), ship mode, average shipping days, state and city.
