@@ -136,8 +136,8 @@ The report contains five analytical pages that sit behind the Executive Overview
 </p>
 
 
-- **5,009 orders were placed but only 4,120 (82.25%) have a trustworthy ship date.** The 3.81-day average processing time is therefore measured on four out of five orders, a limitation every lead-time figure in this report inherits.
-- **3.81 days is the headline benchmark** for order-to-ship time across the business.
+- **5,009 orders were placed but only 4,120 (82.25%) have a trustworthy ship date.** The 3.81-day (Approx. 4 days) average processing time is therefore measured on four out of five orders, a limitation every lead-time figure in this report inherits.
+- **3.81 days (Approx. 4 days) is the headline benchmark** for order-to-ship time across the business.
 
 
 #### Orders by Ship Mode 
@@ -167,7 +167,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### Sales by Ship Mode
 <p align="center">
-<img width="344" height="270" alt="chart_ship_sales" src="https://github.com/user-attachments/assets/302e5a38-c03b-4827-b050-0a06fc5841be" />
+<img width="344" height="290" alt="chart_ship_sales" src="https://github.com/user-attachments/assets/302e5a38-c03b-4827-b050-0a06fc5841be" />
 <br><em>Figure 6: Sales by Ship Mode Charts</em>
 </p>
 
@@ -237,7 +237,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### Shipping Processing Time by Ship Mode and Region
 <p align="center">
-<img width="606" height="300" alt="chart_ops_table" src="https://github.com/user-attachments/assets/27d48d02-28ff-46ff-84b7-e3811d6aad0f" />
+<img width="606" height="350" alt="chart_ops_table" src="https://github.com/user-attachments/assets/27d48d02-28ff-46ff-84b7-e3811d6aad0f" />
 <br><em>Figure 12: Shipping Processing Time Table</em>
 </p>
 
@@ -276,7 +276,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### % Order Returns Trend 
 <p align="center">
-<img width="449" height="198" alt="chart_ret_trend" src="https://github.com/user-attachments/assets/1f79c29f-b27d-4dd5-a399-111a3b4b49b4" />
+<img width="500" height="240" alt="chart_ret_trend" src="https://github.com/user-attachments/assets/1f79c29f-b27d-4dd5-a399-111a3b4b49b4" />
 <br><em>Figure 15: Order Retunrs Trend</em>
 </p>
 
@@ -288,7 +288,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### Order Returns by City 
 <p align="center">
-<img width="600" height="300" alt="chart_ret_city" src="https://github.com/user-attachments/assets/65a08dac-b7bc-4161-b113-98cd113d63db" />
+<img width="600" height="360" alt="chart_ret_city" src="https://github.com/user-attachments/assets/65a08dac-b7bc-4161-b113-98cd113d63db" />
 <br><em>Figure 16: Order by City</em>
 </p>
 
@@ -340,7 +340,7 @@ The report contains five analytical pages that sit behind the Executive Overview
 
 #### State-Level Performance
 <p align="center">
-<img width="614" height="294" alt="chart_geo_table" src="https://github.com/user-attachments/assets/e738bef6-0dbb-49e7-898b-5f1960caf022" />
+<img width="614" height="340" alt="chart_geo_table" src="https://github.com/user-attachments/assets/e738bef6-0dbb-49e7-898b-5f1960caf022" />
 <br><em>Figure 21: State Level Perfomance Chart</em>
 </p>
 
